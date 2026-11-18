@@ -1,0 +1,176 @@
+{"episode_id": 6018, "step": 0, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe down", "final": "down", "instruction": "Swipe down to view the axion iron glossy handlesets(silver,gold)"}
+{"episode_id": 8622, "step": 6, "split": "train", "decision": "exclude", "label": "left", "observed": "up", "phrase": null, "final": null, "instruction": "Select the start date as Dec 23."}
+{"episode_id": 12697, "step": 1, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the compare option"}
+{"episode_id": 12697, "step": 2, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the compare option"}
+{"episode_id": 12697, "step": 3, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the compare option"}
+{"episode_id": 15629, "step": 29, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "scroll up", "final": null, "instruction": "Scroll up for help and support."}
+{"episode_id": 16635, "step": 14, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view contact options with customer care"}
+{"episode_id": 17139, "step": 4, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up for the phone number section"}
+{"episode_id": 17601, "step": 5, "split": "train", "decision": "exclude", "label": "right", "observed": "left", "phrase": "swipe right", "final": null, "instruction": "Swipe towards the right side to change the month to October"}
+{"episode_id": 19146, "step": 2, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": null, "final": null, "instruction": "Tap on the first shirt present on the screen."}
+{"episode_id": 764, "step": 3, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read reviews "}
+{"episode_id": 764, "step": 5, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read reviews "}
+{"episode_id": 764, "step": 6, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read reviews "}
+{"episode_id": 1745, "step": 1, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down down to view all reviews"}
+{"episode_id": 1745, "step": 2, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down down to view all reviews"}
+{"episode_id": 3049, "step": 7, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "swipe down", "final": null, "instruction": "swipe down to set the hour as 3"}
+{"episode_id": 5436, "step": 6, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up"}
+{"episode_id": 8803, "step": 1, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to see all reviews"}
+{"episode_id": 8803, "step": 2, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to see all reviews"}
+{"episode_id": 8803, "step": 3, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to see all reviews"}
+{"episode_id": 11312, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the reviews "}
+{"episode_id": 17160, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll UP"}
+{"episode_id": 2749, "step": 2, "split": "train", "decision": "exclude", "label": "left", "observed": null, "phrase": "swipe down", "final": null, "instruction": "Now swipe down to the right around the face."}
+{"episode_id": 9064, "step": 2, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view review section"}
+{"episode_id": 11614, "step": 8, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "swipe down", "final": null, "instruction": "swipe down at the screen to  view reviews and images "}
+{"episode_id": 1707, "step": 3, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the By hour weather history"}
+{"episode_id": 1887, "step": 3, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to view the reviews"}
+{"episode_id": 2508, "step": 0, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to view the reviews"}
+{"episode_id": 2508, "step": 1, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to view the reviews"}
+{"episode_id": 2508, "step": 2, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to view the reviews"}
+{"episode_id": 19790, "step": 9, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more shoes."}
+{"episode_id": 19790, "step": 11, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more shoes."}
+{"episode_id": 1648, "step": 1, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the gmail option"}
+{"episode_id": 3995, "step": 2, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up"}
+{"episode_id": 4575, "step": 1, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to See the all reviews"}
+{"episode_id": 4575, "step": 2, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to See the all reviews"}
+{"episode_id": 9488, "step": 19, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "swipe down", "final": null, "instruction": "Swipe down to view more flights."}
+{"episode_id": 11738, "step": 1, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to the heart icon"}
+{"episode_id": 15654, "step": 0, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to view the heart icon"}
+{"episode_id": 16196, "step": 9, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more books "}
+{"episode_id": 17886, "step": 5, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up"}
+{"episode_id": 2189, "step": 7, "split": "train", "decision": "exclude", "label": "left", "observed": "up", "phrase": null, "final": null, "instruction": "click on the capsicum check box"}
+{"episode_id": 6584, "step": 1, "split": "train", "decision": "exclude", "label": "left", "observed": "up", "phrase": null, "final": null, "instruction": "Swipe the reading brightness icon towards the right side to increase the brightness"}
+{"episode_id": 10250, "step": 2, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to more apps"}
+{"episode_id": 11256, "step": 4, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view more "}
+{"episode_id": 12843, "step": 4, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "swipe down", "final": null, "instruction": "Swipe down for the view store option"}
+{"episode_id": 14931, "step": 1, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the reviews option"}
+{"episode_id": 19011, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the Map option "}
+{"episode_id": 4457, "step": 0, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the wear lusso women's pullover sweater option"}
+{"episode_id": 10914, "step": 0, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the ratings option "}
+{"episode_id": 11477, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up for the black formal shirt"}
+{"episode_id": 11698, "step": 0, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the ratings option "}
+{"episode_id": 15555, "step": 2, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view apply button"}
+{"episode_id": 16238, "step": 3, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the review option"}
+{"episode_id": 19312, "step": 1, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read more reviews "}
+{"episode_id": 12765, "step": 3, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more items"}
+{"episode_id": 13365, "step": 2, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "scroll down", "final": null, "instruction": "Scroll down"}
+{"episode_id": 14692, "step": 2, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view menu "}
+{"episode_id": 17046, "step": 5, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up."}
+{"episode_id": 48, "step": 6, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more shoes."}
+{"episode_id": 1272, "step": 0, "split": "train", "decision": "exclude", "label": "right", "observed": "up", "phrase": null, "final": null, "instruction": "Swipe the filter bar to check for the ratings filter."}
+{"episode_id": 10635, "step": 1, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to see all feedback reviews"}
+{"episode_id": 10635, "step": 2, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to see all feedback reviews"}
+{"episode_id": 14332, "step": 11, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more products"}
+{"episode_id": 15256, "step": 4, "split": "train", "decision": "exclude", "label": "left", "observed": "up", "phrase": null, "final": null, "instruction": "Click on the GOKVALLA tealight holder"}
+{"episode_id": 410, "step": 0, "split": "train", "decision": "exclude", "label": "right", "observed": null, "phrase": "swipe down", "final": null, "instruction": "Swipe down to Add to basket"}
+{"episode_id": 1213, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll Up"}
+{"episode_id": 2514, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view other wrench tool kits of this category."}
+{"episode_id": 10556, "step": 0, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to Add to cart button"}
+{"episode_id": 12706, "step": 10, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view the January month."}
+{"episode_id": 16905, "step": 2, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to view the theme option"}
+{"episode_id": 1314, "step": 4, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "swipe up the results"}
+{"episode_id": 3018, "step": 4, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up for the phone number section"}
+{"episode_id": 9152, "step": 0, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to add to cart."}
+{"episode_id": 9332, "step": 2, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the form."}
+{"episode_id": 13088, "step": 7, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to reviews section"}
+{"episode_id": 13488, "step": 4, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more"}
+{"episode_id": 994, "step": 0, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to watchlist"}
+{"episode_id": 5928, "step": 6, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more search result."}
+{"episode_id": 10859, "step": 7, "split": "train", "decision": "fix", "label": "right", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "swipe up to see the calender "}
+{"episode_id": 10899, "step": 3, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up."}
+{"episode_id": 10899, "step": 5, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up."}
+{"episode_id": 10899, "step": 6, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up."}
+{"episode_id": 11442, "step": 5, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "scroll down to view more"}
+{"episode_id": 2940, "step": 2, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "scroll up", "final": null, "instruction": "scroll up to view Reviews option"}
+{"episode_id": 7452, "step": 6, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up for the 4.5 above rating shoes"}
+{"episode_id": 7452, "step": 8, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up for the 4.5 above rating shoes"}
+{"episode_id": 10077, "step": 5, "split": "train", "decision": "exclude", "label": "left", "observed": "up", "phrase": null, "final": null, "instruction": "Select the topic motion in a straight line present at the bottom of the screen."}
+{"episode_id": 10077, "step": 6, "split": "train", "decision": "exclude", "label": "left", "observed": "down", "phrase": null, "final": null, "instruction": "Select the topic motion in a straight line present at the bottom of the screen."}
+{"episode_id": 13631, "step": 2, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to see more details of the product."}
+{"episode_id": 16667, "step": 5, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more sneakers."}
+{"episode_id": 16707, "step": 27, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up for car"}
+{"episode_id": 1657, "step": 3, "split": "train", "decision": "exclude", "label": "left", "observed": null, "phrase": "swipe down", "final": null, "instruction": "Swipe down from a upper left point to lower right side"}
+{"episode_id": 12710, "step": 9, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to Save button"}
+{"episode_id": 15984, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "swipe down", "final": null, "instruction": "Swipe down to view the feedback or rating of this car."}
+{"episode_id": 576, "step": 3, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view add to cart option to add this product to my cart."}
+{"episode_id": 1638, "step": 2, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "swipe down", "final": null, "instruction": "Swipe down to view add to cart option"}
+{"episode_id": 6994, "step": 0, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the brand new birkenstock shoes"}
+{"episode_id": 12451, "step": 4, "split": "train", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to view reviews"}
+{"episode_id": 12451, "step": 5, "split": "train", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to view reviews"}
+{"episode_id": 13272, "step": 30, "split": "train", "decision": "exclude", "label": "left", "observed": "up", "phrase": null, "final": null, "instruction": "Click on the Volkswagen option."}
+{"episode_id": 758, "step": 4, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the product details"}
+{"episode_id": 758, "step": 5, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the product details"}
+{"episode_id": 7115, "step": 1, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "swipe down", "final": null, "instruction": "Swipe down to view weather maps"}
+{"episode_id": 11869, "step": 1, "split": "train", "decision": "exclude", "label": "right", "observed": null, "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the plants care"}
+{"episode_id": 13113, "step": 5, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to view the radio stations"}
+{"episode_id": 16287, "step": 11, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "swipe down", "final": null, "instruction": "Swipe down the screen"}
+{"episode_id": 20043, "step": 4, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up for oneed"}
+{"episode_id": 20043, "step": 5, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up for oneed"}
+{"episode_id": 1660, "step": 4, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to browse for the Hiking shoes with rating above 4.5"}
+{"episode_id": 2381, "step": 0, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up on the screen."}
+{"episode_id": 2381, "step": 1, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up on the screen."}
+{"episode_id": 2381, "step": 2, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up on the screen."}
+{"episode_id": 2381, "step": 3, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up on the screen."}
+{"episode_id": 15465, "step": 5, "split": "train", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to read reviews"}
+{"episode_id": 16912, "step": 2, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "swipe down", "final": null, "instruction": "Swipe down to view the reviews of the racket."}
+{"episode_id": 5733, "step": 2, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up for Indie genre playlist"}
+{"episode_id": 5733, "step": 3, "split": "train", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up for Indie genre playlist"}
+{"episode_id": 14139, "step": 2, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": null, "final": null, "instruction": "Tarmak shoes, and  comfortable."}
+{"episode_id": 5172, "step": 3, "split": "train", "decision": "exclude", "label": "left", "observed": null, "phrase": "swipe down", "final": null, "instruction": "Swipe down on the page to add"}
+{"episode_id": 12715, "step": 0, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": "swipe down", "final": null, "instruction": "Swipe down to view reviews of the product"}
+{"episode_id": 13516, "step": 3, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up"}
+{"episode_id": 4832, "step": 1, "split": "train", "decision": "exclude", "label": "up", "observed": "down", "phrase": null, "final": null, "instruction": "Swipe on the hold icon "}
+{"episode_id": 5193, "step": 0, "split": "train", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down to See all reviews"}
+{"episode_id": 5976, "step": 12, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view CITIC Jinling Hotel"}
+{"episode_id": 7159, "step": 2, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up"}
+{"episode_id": 7759, "step": 2, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read reviews"}
+{"episode_id": 7759, "step": 3, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read reviews"}
+{"episode_id": 7759, "step": 4, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read reviews"}
+{"episode_id": 10264, "step": 8, "split": "train", "decision": "exclude", "label": "up", "observed": "right", "phrase": null, "final": null, "instruction": "Set the hours as 1"}
+{"episode_id": 13417, "step": 6, "split": "train", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more helmets."}
+{"episode_id": 18784, "step": 5, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up for shipping and more details"}
+{"episode_id": 18784, "step": 6, "split": "train", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up for shipping and more details"}
+{"episode_id": 14244, "step": 1, "split": "validation", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view similar items"}
+{"episode_id": 14244, "step": 2, "split": "validation", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view similar items"}
+{"episode_id": 13657, "step": 3, "split": "validation", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view the reviews of this helmet."}
+{"episode_id": 12356, "step": 2, "split": "test", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to view the travel category"}
+{"episode_id": 12356, "step": 5, "split": "test", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to view the ALTAIR magazine"}
+{"episode_id": 3010, "step": 3, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read the article"}
+{"episode_id": 586, "step": 9, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to view more articles"}
+{"episode_id": 15935, "step": 3, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read the review"}
+{"episode_id": 15935, "step": 4, "split": "test", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to read the review"}
+{"episode_id": 6304, "step": 2, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to View details about the Apartment"}
+{"episode_id": 6304, "step": 3, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to View details about the Apartment"}
+{"episode_id": 6304, "step": 4, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to View details about the Apartment"}
+{"episode_id": 6304, "step": 5, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to View details about the Apartment"}
+{"episode_id": 11417, "step": 1, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to view 25 May 2023 article of wanderlust magazine"}
+{"episode_id": 4618, "step": 9, "split": "test", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up to view the Street art option "}
+{"episode_id": 16259, "step": 3, "split": "test", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll up", "final": null, "instruction": "Scroll up on the screen to see the categories."}
+{"episode_id": 11239, "step": 2, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read article "}
+{"episode_id": 11239, "step": 3, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read article "}
+{"episode_id": 13669, "step": 4, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to Hindi language"}
+{"episode_id": 13669, "step": 5, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to Hindi language"}
+{"episode_id": 13669, "step": 6, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to Hindi language"}
+{"episode_id": 13669, "step": 7, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to Hindi language"}
+{"episode_id": 13669, "step": 8, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to Hindi language"}
+{"episode_id": 18773, "step": 5, "split": "test", "decision": "exclude", "label": "left", "observed": "right", "phrase": "swipe right", "final": null, "instruction": "Swipe right the Latest live drawing "}
+{"episode_id": 9131, "step": 2, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to view The Technology Magazines category "}
+{"episode_id": 9131, "step": 5, "split": "test", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to view the Global MDA Journal Magazine"}
+{"episode_id": 11622, "step": 1, "split": "test", "decision": "fix", "label": "right", "observed": "up", "phrase": "swipe down", "final": "up", "instruction": "Swipe down for Mass Section"}
+{"episode_id": 14454, "step": 7, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read more "}
+{"episode_id": 14454, "step": 8, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "scroll down", "final": "down", "instruction": "Scroll down to read more "}
+{"episode_id": 172, "step": 1, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view the details of artwork"}
+{"episode_id": 15541, "step": 5, "split": "test", "decision": "exclude", "label": "down", "observed": "up", "phrase": "scroll down", "final": null, "instruction": "Scroll down to view more arts by Jonathan LeVine Projects."}
+{"episode_id": 19660, "step": 2, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read the article"}
+{"episode_id": 777, "step": 5, "split": "test", "decision": "exclude", "label": "left", "observed": null, "phrase": "swipe down", "final": null, "instruction": "swipe down at the screen to view more similar items "}
+{"episode_id": 2079, "step": 1, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up for Heat Density section"}
+{"episode_id": 11870, "step": 4, "split": "test", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to view Gaming category "}
+{"episode_id": 18741, "step": 2, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read the article"}
+{"episode_id": 18741, "step": 3, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read the article"}
+{"episode_id": 10726, "step": 5, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view more "}
+{"episode_id": 18963, "step": 2, "split": "test", "decision": "exclude", "label": "left", "observed": null, "phrase": "scroll down", "final": null, "instruction": "Scroll down to view family category option"}
+{"episode_id": 2947, "step": 0, "split": "test", "decision": "fix", "label": "left", "observed": "down", "phrase": "swipe up", "final": "down", "instruction": "Swipe up to view all the reminders"}
+{"episode_id": 3347, "step": 3, "split": "test", "decision": "exclude", "label": "up", "observed": "down", "phrase": "swipe down", "final": null, "instruction": "Swipe down"}
+{"episode_id": 19927, "step": 2, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read the work"}
+{"episode_id": 19927, "step": 3, "split": "test", "decision": "fix", "label": "left", "observed": null, "phrase": "swipe up", "final": "down", "instruction": "Swipe up to read the work"}

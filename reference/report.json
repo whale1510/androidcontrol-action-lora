@@ -1,0 +1,78 @@
+{
+ "max_history": 20,
+ "splits": {
+  "train": {
+   "episodes": 13603,
+   "steps_total": 88317,
+   "written": 88062,
+   "excluded_as_target": {
+    "no_instruction": 136,
+    "scroll_unclear": 74,
+    "no_element": 34,
+    "oob": 11
+   },
+   "scroll_fixed": {
+    "left->down": 39,
+    "right->up": 19,
+    "right->down": 1
+   },
+   "written_by_action": {
+    "click": 46360,
+    "status": 13603,
+    "scroll": 9751,
+    "input_text": 5406,
+    "wait": 5089,
+    "open_app": 5009,
+    "navigate_back": 2658,
+    "long_press": 157,
+    "navigate_home": 29
+   }
+  },
+  "val": {
+   "episodes": 137,
+   "steps_total": 827,
+   "written": 827,
+   "excluded_as_target": {
+    "scroll_unclear": 1
+   },
+   "scroll_fixed": {
+    "left->down": 2
+   },
+   "written_by_action": {
+    "click": 420,
+    "status": 137,
+    "scroll": 86,
+    "wait": 56,
+    "input_text": 53,
+    "open_app": 45,
+    "navigate_back": 29,
+    "long_press": 1
+   }
+  },
+  "test": {
+   "episodes": 1543,
+   "steps_total": 9987,
+   "written": 9987,
+   "excluded_as_target": {
+    "no_element": 6,
+    "no_instruction": 16,
+    "scroll_unclear": 12,
+    "oob": 1
+   },
+   "scroll_fixed": {
+    "left->down": 27,
+    "right->up": 1
+   },
+   "written_by_action": {
+    "click": 5074,
+    "status": 1543,
+    "scroll": 1211,
+    "input_text": 632,
+    "open_app": 608,
+    "wait": 567,
+    "navigate_back": 343,
+    "long_press": 9
+   }
+  }
+ }
+}

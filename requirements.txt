@@ -1,0 +1,12 @@
+# Versions used when this code was written and checked (Python 3.11).
+# Install torch/torchvision first with the build that matches your CUDA, e.g.
+#   pip install torch==2.14.1 torchvision==0.29.1 --index-url https://download.pytorch.org/whl/cu130
+torch==2.14.1
+torchvision==0.29.1
+transformers==5.22.2
+peft==0.21.3
+accelerate==1.15.0
+safetensors==0.8.0
+pillow==13.0.0
+PyYAML==6.0.3
+protobuf>=4.21        # only for build_sft.py (reading the accessibility trees)

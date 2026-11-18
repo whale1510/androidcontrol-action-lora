@@ -1,0 +1,6 @@
+# downloaded and generated data, training outputs
+data/
+runs/
+__pycache__/
+*.pyc
+.venv/

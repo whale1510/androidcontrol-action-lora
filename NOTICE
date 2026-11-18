@@ -1,0 +1,14 @@
+This repository includes material from other projects.
+
+third_party/android_env/a11y_descriptors.binpb
+  Protocol buffer descriptors of the accessibility-tree messages (android_env/proto/a11y/*.proto)
+  exported from android_env 1.2.3. Copyright DeepMind Technologies Limited. Apache License 2.0,
+  see third_party/android_env/LICENSE. https://github.com/google-deepmind/android_env
+
+AndroidControl (downloaded by scripts/get_androidcontrol.sh, not included here)
+  Li et al., "On the Effects of Data Scale on UI Control Agents", 2024.
+  https://github.com/google-research/google-research/tree/master/android_control
+
+reference/scroll_fixes.jsonl
+  Contains step instructions quoted from AndroidControl for the scroll steps that were corrected
+  or excluded.
